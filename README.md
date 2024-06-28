@@ -10,4 +10,4 @@ A23MJ0017 Zinat Ferdous
 
 * ✉️  Project 1 https://github.com/mayiman33/SAD-Group12/blob/main/SAD-Group12-P1.pdf
 * ✉️  Project 2 https://github.com/mayiman33/SAD-Group12/blob/main/SAD-Group12-P2.pdf
-* 🌍  Slides 
+* 🌍  Slides    https://github.com/mayiman33/SAD-Group12/blob/main/Group_12SAD.pptx
